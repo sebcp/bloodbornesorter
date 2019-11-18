@@ -59,7 +59,7 @@ dataSet[dataSetVersion].characterData = [
 		}
 	},
 	{
-		name: "Doll",
+		name: "The Doll",
 		img: "aXhlQsF.jpg",
 		opts: {
 			base: true,
@@ -280,7 +280,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "One Reborn",
-		img: "YxGZxn7.png",
+		img: "nwDMF1V.jpg",
 		opts: {
 			base: true,
 			dlc: false,
@@ -290,7 +290,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Shadow of Yharnam",
-		img: "YxGZxn7.png",
+		img: "Cu6rS5P.jpg",
 		opts: {
 			base: true,
 			dlc: false,
@@ -300,7 +300,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Vicar Amelia",
-		img: "YxGZxn7.png",
+		img: "tcL3vL6.jpg",
 		opts: {
 			base: true,
 			dlc: false,
@@ -310,7 +310,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Witch of Hemwick",
-		img: "YxGZxn7.png",
+		img: "85nOqJn.jpg",
 		opts: {
 			base: true,
 			dlc: false,
@@ -320,7 +320,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Amygdala",
-		img: "YxGZxn7.png",
+		img: "iaMZ2RL.jpg",
 		opts: {
 			base: true,
 			dlc: false,
@@ -330,7 +330,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Celestial Emissary",
-		img: "YxGZxn7.png",
+		img: "0talcJH.png",
 		opts: {
 			base: true,
 			dlc: false,
@@ -340,7 +340,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Ebrietas, Daughter of the Cosmos",
-		img: "YxGZxn7.png",
+		img: "YNvFWri.jpg",
 		opts: {
 			base: true,
 			dlc: false,
@@ -350,7 +350,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Mergo's Wet Nurse",
-		img: "YxGZxn7.png",
+		img: "6myOcrf.jpg",
 		opts: {
 			base: true,
 			dlc: false,
@@ -360,7 +360,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Moon Presence",
-		img: "YxGZxn7.png",
+		img: "NINb90e.jpg",
 		opts: {
 			base: true,
 			dlc: false,
@@ -370,7 +370,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Rom, the Vacous Spider",
-		img: "YxGZxn7.png",
+		img: "PXGlhOT.jpg",
 		opts: {
 			base: true,
 			dlc: false,
@@ -380,7 +380,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Yharnam, Pthumerian Queen",
-		img: "YxGZxn7.png",
+		img: "ZH4uNSR.jpg",
 		opts: {
 			base: true,
 			dlc: false,
@@ -390,7 +390,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Ludwig, the Holy Blade",
-		img: "YxGZxn7.png",
+		img: "LQQxYXU.jpg",
 		opts: {
 			base: false,
 			dlc: true,
@@ -400,7 +400,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Orphan of Kos",
-		img: "YxGZxn7.png",
+		img: "9QXlZBp.png",
 		opts: {
 			base: false,
 			dlc: true,
@@ -410,7 +410,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Lady Maria of the Astral Clocktower",
-		img: "YxGZxn7.png",
+		img: "IlCqo4s.jpg",
 		opts: {
 			base: false,
 			dlc: true,
@@ -420,7 +420,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Living Failures",
-		img: "YxGZxn7.png",
+		img: "T3ZWXGc.png",
 		opts: {
 			base: false,
 			dlc: true,
@@ -430,7 +430,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Laurence, the First Vicar",
-		img: "YxGZxn7.png",
+		img: "XexfLBF.jpg",
 		opts: {
 			base: false,
 			dlc: true,
