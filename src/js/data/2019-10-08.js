@@ -3,6 +3,27 @@ dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
 	{
+		name: "Filter by humans",
+		key: "human",
+		tooltip: "Restricts to humanoid characters",
+		checked: false,
+		sub: [
+			{ name: "Hunters", key: "hunter"},
+			{ name: "Non-hunters", key: "nhunter"}
+		]
+	},
+	{
+		name: "Filter by enemies",
+		key: "enemy",
+		tooltip: "Restricts to enemies",
+		checked: false,
+		sub: [
+			{ name: "Humanoids", tooltip: "Filters human and humanoid bosses", key: "humanoid"},
+			{ name: "Beasts", tooltip: "Filters beast bosses", key: "beast"},
+			{ name: "Great Ones", tooltip: "Filters otherworldly bosses", key: "oldone"}
+			]
+	},
+	{
 		name: "Base game content",
 		key: "base",
 		tooltip: "Filters base game content",
@@ -13,27 +34,6 @@ dataSet[dataSetVersion].options = [
 		key: "dlc",
 		tooltip: "Filters downloadable content",
 		checked: false
-	},
-	{
-		name: "Human characters",
-		key: "human",
-		tooltip: "Filters human characters",
-		checked: false,
-		sub: [
-			{ name: "Hunters", key: "hunter"},
-			{ name: "Non-hunters", key: "nhunter"}
-		]
-	},
-	{
-		name: "Enemies",
-		key: "enemy",
-		tooltip: "Filters enemy bosses",
-		checked: false,
-		sub: [
-			{ name: "Humanoids", tooltip: "Filters human and humanoid bosses", key: "humanoid"},
-			{ name: "Beasts", tooltip: "Filters beast bosses", key: "beast"},
-			{ name: "Great Ones", tooltip: "Filters otherworldly bosses", key: "oldone"}
-			]
 	}
 ];
 
