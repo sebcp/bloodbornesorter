@@ -169,8 +169,8 @@ dataSet[dataSetVersion].characterData = [
 		}
 	},
 	{
-		name: "Valtr",
-		img: "YxGZxn7.png",
+		name: "Valtr, Master of the League",
+		img: "8Emi7V4.jpg",
 		opts: {
 			base: true,
 			dlc: false,
