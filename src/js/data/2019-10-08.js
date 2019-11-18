@@ -40,7 +40,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
 	{
 		name: "The Hunter",
-		img: "YxGZxn7.png",
+		img: "sgwXY6R.png",
 		opts: {
 			base: true,
 			dlc: false,
