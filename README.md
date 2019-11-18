@@ -4,4 +4,4 @@ Bloodborne characters from a set.
 
 ## Credits
 
- * [excecfera](https://github.com/execfera) for the template.
+ * [execfera](https://github.com/execfera) for the template.
