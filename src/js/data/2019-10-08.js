@@ -50,7 +50,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Gehrman, the First Hunter",
-		img: "YxGZxn7.png",
+		img: "mCYwIoO.jpg",
 		opts: {
 			base: true,
 			dlc: false,
@@ -60,7 +60,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Doll",
-		img: "YxGZxn7.png",
+		img: "aXhlQsF.jpg",
 		opts: {
 			base: true,
 			dlc: false,
@@ -70,7 +70,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Annalise, Queen of the Vilebloods",
-		img: "YxGZxn7.png",
+		img: "o9exonw.jpg",
 		opts: {
 			base: true,
 			dlc: false,
@@ -80,7 +80,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Arianna, Woman of the Night",
-		img: "YxGZxn7.png",
+		img: "laz3req.jpg",
 		opts: {
 			base: true,
 			dlc: false,
@@ -90,7 +90,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Iosefka",
-		img: "YxGZxn7.png",
+		img: "H0tkN7H.jpg",
 		opts: {
 			base: true,
 			dlc: false,
@@ -100,7 +100,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Eileen the Crow",
-		img: "YxGZxn7.png",
+		img: "CRsQ4s7.jpg",
 		opts: {
 			base: true,
 			dlc: false,
@@ -110,7 +110,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Provost Willem",
-		img: "YxGZxn7.png",
+		img: "lQ6byBL.jpg",
 		opts: {
 			base: true,
 			dlc: false,
@@ -119,8 +119,8 @@ dataSet[dataSetVersion].characterData = [
 		}
 	},
 	{
-		name: "Chapel Samaritan",
-		img: "YxGZxn7.png",
+		name: "Oedon Chapel Dweller",
+		img: "Cg7qpaI.png",
 		opts: {
 			base: true,
 			dlc: false,
@@ -130,7 +130,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Patches the Spider",
-		img: "YxGZxn7.png",
+		img: "yvjEdAN.jpg",
 		opts: {
 			base: true,
 			dlc: false,
@@ -140,7 +140,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Retired Hunter Djura",
-		img: "YxGZxn7.png",
+		img: "RTD2IJn.jpg",
 		opts: {
 			base: true,
 			dlc: false,
@@ -150,7 +150,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Adella, Nun of the Healing Church",
-		img: "YxGZxn7.png",
+		img: "MX0lGlu.png",
 		opts: {
 			base: true,
 			dlc: false,
@@ -160,7 +160,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Alfred, Hunter of Vilebloods",
-		img: "YxGZxn7.png",
+		img: "M1VbTZh.png",
 		opts: {
 			base: true,
 			dlc: false,
@@ -180,7 +180,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Brador",
-		img: "YxGZxn7.png",
+		img: "cwKIA9i.jpg",
 		opts: {
 			base: false,
 			dlc: true,
@@ -190,7 +190,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Simon the Harrowed",
-		img: "YxGZxn7.png",
+		img: "Ci68alD.jpg",
 		opts: {
 			base: false,
 			dlc: true,
@@ -200,7 +200,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Old Hunter Yamamura",
-		img: "YxGZxn7.png",
+		img: "H2dEMV3.png",
 		opts: {
 			base: false,
 			dlc: true,
@@ -210,7 +210,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Saint Adeline",
-		img: "YxGZxn7.png",
+		img: "JZ0LMsG.jpg",
 		opts: {
 			base: false,
 			dlc: true,
@@ -220,7 +220,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Blood Starved Beast",
-		img: "YxGZxn7.png",
+		img: "mPml3vU.jpg",
 		opts: {
 			base: true,
 			dlc: false,
@@ -230,7 +230,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Cleric Beast",
-		img: "YxGZxn7.png",
+		img: "v9Z4pDs.jpg",
 		opts: {
 			base: true,
 			dlc: false,
@@ -240,7 +240,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Darkbeast Paarl",
-		img: "YxGZxn7.png",
+		img: "gs6iIVP.jpg",
 		opts: {
 			base: true,
 			dlc: false,
@@ -250,7 +250,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Father Gascoigne",
-		img: "YxGZxn7.png",
+		img: "6ms7grZ.png",
 		opts: {
 			base: true,
 			dlc: false,
@@ -260,7 +260,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Micolash, Host of the Nightmare",
-		img: "YxGZxn7.png",
+		img: "Es2ZrH6.jpg",
 		opts: {
 			base: true,
 			dlc: false,
@@ -270,7 +270,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Martyr Logarius",
-		img: "YxGZxn7.png",
+		img: "baKEbgQ.jpg",
 		opts: {
 			base: true,
 			dlc: false,
